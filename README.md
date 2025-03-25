@@ -1,5 +1,8 @@
 # 💫 About Me:
-Im a PHP Develover
+PHP Developer
+Unity enthusiast
+UE5 enthusiast
+WEB 3 Beliver
 
 
 ## 🌐 Socials:
